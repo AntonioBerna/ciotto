@@ -1,8 +1,8 @@
 <h1 align="center">
     <br>
-    <img src=".github/imgs/ciotto.png" alt="CHIP-8" width="500">
+    <img src=".github/imgs/ciotto.png" alt="CHIP-8" width="400">
     <br>
-    ciotto - A CHIP-8 Emulator in C
+    ciotto - The CHIP-8 Emulator
     <br>
 </h1>
 
@@ -23,7 +23,7 @@ make clean
 
 Then, you can run the emulator with a CHIP-8 ROM:
 
-```bash
+```
 ./chip8 --emu <rom.ch8>
 ```
 
