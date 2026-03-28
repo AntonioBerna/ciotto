@@ -10,7 +10,7 @@
 
 This project requires the following dependencies:
 
-- sdl2-compat: https://github.com/libsdl-org/sdl2-compat
+- [sdl2-compat](https://github.com/libsdl-org/sdl2-compat)
 
 ## Usage
 
