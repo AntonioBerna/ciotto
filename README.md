@@ -6,6 +6,10 @@
     <br>
 </h1>
 
+## Requirements
+
+- sdl2-compat: https://github.com/libsdl-org/sdl2-compat
+
 ## Usage
 
 First, clone the repository and build the project:
