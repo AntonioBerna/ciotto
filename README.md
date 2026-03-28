@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src=".github/imgs/ciotto.png" alt="CHIP-8" width="400">
+    <img src=".github/imgs/ciotto.png" alt="CHIP-8" width="500">
     <br>
     ciotto - The CHIP-8 Emulator
     <br>
@@ -11,13 +11,14 @@
 First, clone the repository and build the project:
 
 ```bash
+# clone the repository
 git clone https://github.com/AntonioBerna/ciotto.git
 cd ciotto
 
-# build
+# build the project
 make
 
-# clean build
+# clean the build files
 make clean
 ```
 
